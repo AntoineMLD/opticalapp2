@@ -5,7 +5,8 @@ opticalapp2\datasets
 datasets
 downloaded_images
 text_images
-envopti2
+envopti
+.gitattributes
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
